@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab] IN PROGRESS
-  - [SIEM Microsoft Azure Honeypot Lab] (https://github.com/Dain8989/SIEM-Azure-Lab)
+  - [SIEM Microsoft Azure Honeypot Lab](https://github.com/Dain8989/SIEM-Azure-Lab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
