@@ -5,9 +5,7 @@
   - [Active Directory Home Lab] IN PROGRESS
   - [SIEM Microsoft Azure Honeypot Lab](https://github.com/Dain8989/SIEM-Azure-Lab)
   - [Simple Home Network Packet Tracer](https://github.com/Dain8989/simple-home-network)
-<h2>📺 Popular YouTube Videos</h2>
 
-- [SIEM Azure Microsoft Honeypot Demo]
 
 <h2>🥇 Certifications</h2>
 - [Google Cyber Security Certificate] IN PROGRESS
